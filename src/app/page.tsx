@@ -13,7 +13,7 @@ export default function HomePage() {
                 Organize tasks with a clean drag-and-drop workflow.
               </p>
             </div>
-            <UserButton afterSignOutUrl="/sign-in" />
+            <UserButton />
           </div>
         </header>
         <div className="min-h-0 flex-1">
