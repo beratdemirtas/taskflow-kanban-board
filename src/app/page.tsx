@@ -9,9 +9,7 @@ export default function HomePage() {
           <div className="flex items-center justify-between gap-3">
             <div>
               <h1 className="text-2xl font-bold text-gray-900 md:text-3xl">TaskFlow</h1>
-              <p className="mt-1 text-sm text-gray-600">
-                Organize tasks with a clean drag-and-drop workflow.
-              </p>
+            
             </div>
             <UserButton />
           </div>
